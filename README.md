@@ -1,5 +1,7 @@
 # MyFirstQuizApp
 
+Learning FLutter for past 10 days through Udemy, as a part of course they provides an opportunity to creat real time applications.
+
 Created Flutter Application with above dart files. the following are the steps involved to run the app seamlessly.
 
 step 1: create Flutter App with *flutter create app_name*
